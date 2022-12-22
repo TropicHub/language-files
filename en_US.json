@@ -1,9 +1,9 @@
 {
     "standardPlayer": "Player",
     "standardPlayers": "Players",
-    "standardMessageNoPermission": "§cDu verfügst nicht über die Permission§7: §4<permission>",
-    "coinsystemMessageRemoveCoins": "§aDer Spieler §e{0} §ahat nun §e{1} §aCoins.",
+    "standardMessageNoPermission": "&cDu verfügst nicht über die Permission&7: &4<permission>",
+    "coinsystemMessageRemoveCoins": "&aDer Spieler &e{0} &ahat nun &e{1} &aCoins.",
     "coinsystemUsageRemoveCoins": "/removecoins (Spieler Name) (Menge)",
     "coinsystemUsageAddCoins": "/addcoins (Spieler Name) (Menge)",
-    "coinsystemMessageGotCoins": "§aDu hast §e{0} coins erhalten."
+    "coinsystemMessageGotCoins": "&aDu hast &e{0} coins erhalten."
 }
