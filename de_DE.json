@@ -1,5 +1,4 @@
 {
-  "values": {
     "standardPlayer": "Spieler",
     "standardPlayers": "Spieler",
     "standardMessageNoPermission": "§cDu verfügst nicht über die Permission§7: §4<permission>",
@@ -7,5 +6,4 @@
     "coinsystemUsageRemoveCoins": "/removecoins (Spieler Name) (Menge)",
     "coinsystemUsageAddCoins": "/addcoins (Spieler Name) (Menge)",
     "coinsystemMessageGotCoins": "§aDu hast §e{0} coins erhalten."
-  }
 }
